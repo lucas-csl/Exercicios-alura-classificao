@@ -1,0 +1,9 @@
+Se eu comprar cinco anos antecipados, eu ganho algum desconto?
+Eu ganho desconto se comprar cinco anos antecipado?
+Ao terminar um curso, eu ganho um certificado?
+
+[Se, eu, comprar, cinco, anos, antecipados, ganho, algum, desconto, Ao, terminar, um, curso, certificado]
+
+[1, 2, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+[1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0 ,0]
+[0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 2, 1, 1]
